@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-factoryboy",
+  "versions": [
+    {
+      "commit": "24189dfb6d4ee147c816266bd3398ed236f3867c",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:50:24.804432+00:00"
+    }
+  ]
+}
